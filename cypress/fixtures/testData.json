@@ -1,0 +1,16 @@
+{
+  "targetProduct": {
+    "prod1": "heladera samsung",
+    "prod2": "Smart TV"
+  },
+  "codPostal": "1619",
+  "targetUrl": "Centro de ayuda",
+  "clientData": {
+    "email": "val@gmail.com",
+    "name": "Valentina",
+    "lastName": "Dlr",
+    "document": 95800900,
+    "phone1": 11,
+    "phone2": 58550991
+  }
+}
